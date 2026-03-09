@@ -136,6 +136,6 @@ Saved `.pt` files contain:
 }
 ```
 
-## License
+## Disclaimer
 
-See repository for license information.
+This project was built at the **YC AI/Bio Hackathon**. It is an experimental prototype — not an official product, not production-ready, and provided as-is with no warranties of any kind. Use at your own risk.
