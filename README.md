@@ -1,5 +1,7 @@
 # MDAE — Masked Diffusion Autoencoder for Proteins
 
+> **Disclaimer:** This project was built at the **YC AI/Bio Hackathon**. It is an experimental prototype — not an official product, not production-ready, and provided as-is with no warranties of any kind. Use at your own risk.
+
 MDAE is a PyTorch implementation of a masked diffusion language model for protein sequence generation and representation learning. It combines a bidirectional transformer encoder-decoder with a cosine-scheduled masking diffusion process to learn compact latent representations of proteins and generate novel sequences via reverse diffusion.
 
 ## How It Works
@@ -136,6 +138,3 @@ Saved `.pt` files contain:
 }
 ```
 
-## Disclaimer
-
-This project was built at the **YC AI/Bio Hackathon**. It is an experimental prototype — not an official product, not production-ready, and provided as-is with no warranties of any kind. Use at your own risk.
